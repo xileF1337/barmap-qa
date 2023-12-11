@@ -1,0 +1,32 @@
+/* style.css */
+
+/* Add padding to table cells */
+
+th {
+    font-family: Sans-serif;
+}
+
+th, td {
+    padding-top: 3px;
+    padding-bottom: 1px;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+
+/* Add page margin. */
+body {
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+h1, h2, h3 {
+    font-family: Sans-serif;
+    padding-top: 15px;
+}
+
+p {
+    font-family: serif;
+    max-width: 700px;
+}
+
+
