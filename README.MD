@@ -56,7 +56,8 @@ docker pull xilef1337/barmap-qa
 on the command line.
 
 To **download and update the image** and run the container, we provide
-the BarMap-QA wrapper script 'run_barmap-qa.sh' for Linux
+the BarMap-QA wrapper script [run_barmap-qa.sh](./run_barmap-qa.sh)
+for Linux.
 
 On Windows and macOS, open a PowerShell or a terminal (respectively)
 and run
@@ -71,8 +72,8 @@ files will be written there.
 
 ## Source distribution
 
-Here you can download the latest version of the BarMap-QA as a source
-distribution (BarMap_QA.tar.gz) for Linux. However, we recommend to
+Here you can download the latest version of the [BarMap-QA as a source
+distribution](./BarMap_QA.tar.gz) for Linux. However, we recommend to
 use the provided Docker image (see above), which is already properly
 set up and requires no external dependencies. If you choose to perform
 a manual installation, please extract the downloaded archive and
