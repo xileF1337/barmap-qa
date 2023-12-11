@@ -55,10 +55,13 @@ docker pull xilef1337/barmap-qa
 
 on the command line.
 
-To **download and update the image** and run the
-container, we provide [BarMap-QA wrapper script for Linux] (run_barmap-qa.sh)
+To **download and update the image** and run the container, we provide
+[BarMap-QA wrapper script for Linux] (./run_barmap-qa.sh)
 <!--<a href="run_barmap-qa.sh" title="BarMap-QA wrapper script for Linux">this wrapper script</a>-->
-for Linux. On Windows and macOS, open a PowerShell or a terminal (respectively) and run
+for Linux.
+
+On Windows and macOS, open a PowerShell or a terminal (respectively)
+and run
 
 ```
 docker run --rm -v C:\path\to\my\directory:/host -it xilef1337/barmap-qa
@@ -70,21 +73,25 @@ files will be written there.
 
 ## Source distribution
 
-Here you can download the
-<a href="BarMap_QA.tar.gz" title="BarMap-QA source distribution">latest version of the BarMap-QA</a>
-as a source distribution for Linux. However, we recommend to use the
-provided Docker image (see above), which is already properly set
-up and requires no external dependencies. If you choose to perform
-a manual installation, please extract the downloaded archive and
-follow the steps in the file README.md.
+Here you can download the [BarMap-QA source
+distribution](./BarMap_QA.tar.gz) latest version of the BarMap-QA as a
+source distribution for Linux. However, we recommend to use the
+provided Docker image (see above), which is already properly set up
+and requires no external dependencies. If you choose to perform a
+manual installation, please extract the downloaded archive and follow
+the steps in the file README.md.
+
+<!--<a href="BarMap_QA.tar.gz" title="BarMap-QA source
+    distribution">latest version of the BarMap-QA</a>-->
+
 
 ## Citation
 
-If you use this software for your research, please <strong>cite
-  the following publication:</strong>
+If you use this software for your research, please **cite the
+  following publication:**
 
 Felix K&uuml;hnl, Peter F. Stadler, Sven Findei&szlig; <br>
-<em>&quot;Assessing the Quality of Cotranscriptional Folding Simulations&quot;</em><br>
+* *&quot;Assessing the Quality of Cotranscriptional Folding Simulations&quot;* *
 Sept 2019, submitted to Springer Nature.
 
 A preprint of this publication is available on
