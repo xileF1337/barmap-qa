@@ -56,7 +56,7 @@ docker pull xilef1337/barmap-qa
 on the command line.
 
 To **download and update the image** and run the container, we provide
-this [BarMap-QA wrapper script](https://github.com/xileF1337/barmap-qa/blob/master/run_barmap-qa.sh) for Linux
+the BarMap-QA wrapper script 'run_barmap-qa.sh' for Linux
 
 On Windows and macOS, open a PowerShell or a terminal (respectively)
 and run
@@ -71,18 +71,12 @@ files will be written there.
 
 ## Source distribution
 
-Here you can download the [BarMap-QA source
-distribution](https://github.com/xileF1337/barmap-qa/blob/master/BarMap_QA.tar.gz)
-latest version of the BarMap-QA as a source distribution for
-Linux. However, we recommend to use the provided Docker image (see
-above), which is already properly set up and requires no external
-dependencies. If you choose to perform a manual installation, please
-extract the downloaded archive and follow the steps in the file
-README.md.
-
-<!--<a href="BarMap_QA.tar.gz" title="BarMap-QA source
-    distribution">latest version of the BarMap-QA</a>-->
-
+Here you can download the latest version of the BarMap-QA as a source
+distribution (BarMap_QA.tar.gz) for Linux. However, we recommend to
+use the provided Docker image (see above), which is already properly
+set up and requires no external dependencies. If you choose to perform
+a manual installation, please extract the downloaded archive and
+follow the steps in the corresponding README.md file.
 
 ## Citation
 
@@ -101,8 +95,8 @@ A preprint of this publication is available on
 Should you have any questions, suggestions, or bug reports, do not
 hesitate to write us an email.
 
-Corresponding author: Sven Findei&szlig;, <a href="mailto:sven@bioinf.uni-leipzig.de">sven@bioinf.uni-leipzig.de</a>
-
+Corresponding author: Sven
+Findei&szlig;, <a href="mailto:sven@bioinf.uni-leipzig.de">sven@bioinf.uni-leipzig.de</a>
 <a href="http://www.bioinf.uni-leipzig.de/" title="Bioinf Homepage">Bioinformatics, Leipzig University</a>, Germany.
 
 
