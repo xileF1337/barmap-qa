@@ -1,6 +1,6 @@
 Hosted at <a href="http://www.bioinf.uni-leipzig.de/" title="Bioinf Homepage">Bioinformatics, Leipzig University</a>, Germany.
 
-# Git Reposetory of BarMap-QA
+# Git Repository of BarMap-QA
 
 BarMap-QA - cotranscriptional folding simulations of RNA molecules with
 quality assurance.
